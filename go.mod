@@ -1,4 +1,4 @@
-module github.com/danilabokhanov/validator
+module github.com/danilabokhanov/strintvalidator
 
 go 1.19
 

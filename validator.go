@@ -1,4 +1,4 @@
-package validator
+package strintvalidator
 
 import (
 	"fmt"
